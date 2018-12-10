@@ -4,3 +4,5 @@ https://gist.github.com/rickyrobinett/25e6b56ef2b4d709d124
 
 https://gist.github.com/rickyrobinett
 
+https://www.twilio.com/blog/2017/09/send-text-messages-golang.html
+
